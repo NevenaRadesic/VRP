@@ -1,0 +1,15 @@
+0|skladiste|0|0|0
+1|devic tekstil|3|10|10
+2|ivanic|6|8|6
+3|divos|2|6|4
+4|slavuljica|-5|5|20
+5|kosuta|9|4|15
+6|sunce|7|1|5
+7|bingo|-8|1|5
+8|konzum|-9|-3|5
+9|maksi|2|-2|4
+10|natura vita|-5|-4|5
+11|bingo|-3|-6|5
+12|konzum|2|-4|5
+13|maksi|5|-6|7
+14|natura vita|5|-7|4

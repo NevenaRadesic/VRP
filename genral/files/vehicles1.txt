@@ -1,0 +1,8 @@
+1000|panda|0|0|20
+1001|kombi|0|0|20
+1002|kamion|0|0|20
+1003|prikolica|0|0|20
+1004|polukamion|0|0|20
+1005|polukamion|0|0|20
+1006|polukamion|0|0|20
+1007|polukamion|0|0|20

@@ -1,0 +1,6 @@
+0|skladiste|0|0|0
+1|devic tekstil|-1|5|3
+2|ivanic|4|-2|5
+3|divos|-5|6|4
+4|slavuljica|9|2|6
+5|kosuta|-3|-9|8
